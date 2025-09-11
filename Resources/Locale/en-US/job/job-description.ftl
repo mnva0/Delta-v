@@ -35,9 +35,12 @@ job-description-mime = Entertain the crew without speaking or writing, and engag
 job-description-musician = Entertain the crew with your unique musical talent, and acquire new instruments to mess around with.
 job-description-passenger = Enjoy your stay aboard the station with no obligations!
 job-description-psychologist = Provide emotional support to traumatized crew.
-job-description-qm = Manage the supplies of the station & the logistics department, keep the salvage specialists working, make sure all orders are fulfilled, and keep the money flowing.
-job-description-rd = Manage the epistemics department, unlocking technologies, acquiring & researching artifacts, and performing experiments all while keeping glimmer manageable.
-job-description-research-assistant = Learn the basics of how to research various artifacts, anomalies and robotics.
+# DeltaV: Rephrased Logistics Officer.
+job-description-qm = Manage the supplies of the station & the Logistics department, ensure there are resources, make sure all orders are fulfilled, and keep the money flowing.
+# DeltaV: Rephrased Mystagogue.
+job-description-rd = Manage the Epistemics department, unlock technologies, acquire & research artifacts, and perform experiments all while keeping glimmer manageable.
+# DeltaV: Rephrased Research Assistant.
+job-description-research-assistant = Learn the basics of robotics and how to research various artifacts and anomalies.
 job-description-reporter = Entertain & inform the crew with your vibrant journalism through wireless cameras, the radio and the news.
 job-description-salvagespec = Use the salvage magnet to draw in detatched scraps & asteroids to loot and enrich the station, build a salvage ship and then travel to new planets, while fighting off any space fauna along the way.
 job-description-scientist = Research alien artifacts, unlock new technologies, build newer and better machines around the station, and make everything run more efficiently.
